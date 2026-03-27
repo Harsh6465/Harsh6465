@@ -79,8 +79,7 @@ A web application for reporting local infrastructure issues like potholes and ga
 
 ---
 
-### Acknowledgments
-* Base template inspired by [Soumyajit Sahoo](https://github.com/soumyajit4419/Portfolio).
+### Acknowledgements 
 * Customized and Upgraded by **Harsh Chopda**.
 
 Give a ⭐ if you like this project!
