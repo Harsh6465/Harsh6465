@@ -2,7 +2,7 @@
 
 Welcome to the repository of my personal portfolio website! This project is a highly customized and upgraded version of a React-based portfolio, featuring modern UI/UX transitions, glassmorphism, and a showcase of my work in Full Stack and Android Development.
 
-<a href="https://harsh6465.vercel.app" target="_blank">harsh6465.tech</a>
+<a href="https://harsh6465.vercel.app" target="_blank">Harsh-PortFolio</a>
 
 ## 👨💻 About Me
 
