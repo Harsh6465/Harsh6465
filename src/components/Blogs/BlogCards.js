@@ -12,7 +12,7 @@ function BlogCards(props) {
         <Card.Text style={{ textAlign: "justify", fontSize: "0.95em" }}>
           {props.description}
         </Card.Text>
-        <Button variant="primary" href={props.link} target="_blank">
+        <Button variant="primary" href={props.link}>
           <ImBlog /> &nbsp;
           Read Article
         </Button>

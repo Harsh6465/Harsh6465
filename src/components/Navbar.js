@@ -104,7 +104,7 @@ function NavBar() {
             <Nav.Item className="fork-btn">
               <Button
                 href="https://github.com/Harsh6465"
-                target="_blank"
+
                 className="fork-btn-inner"
               >
                 <CgGitFork style={{ fontSize: "1.2em" }} />{" "}

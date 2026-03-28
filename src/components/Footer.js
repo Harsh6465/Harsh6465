@@ -23,7 +23,7 @@ function Footer() {
               <a
                 href="https://github.com/Harsh6465"
                 style={{ color: "white" }}
-                target="_blank"
+
                 rel="noopener noreferrer"
               >
                 <AiFillGithub />
@@ -33,7 +33,7 @@ function Footer() {
               <a
                 href="https://twitter.com/HarshChopda"
                 style={{ color: "white" }}
-                target="_blank"
+
                 rel="noopener noreferrer"
               >
                 <AiOutlineTwitter />
@@ -43,7 +43,7 @@ function Footer() {
               <a
                 href="https://www.linkedin.com/in/harsh-chopda/"
                 style={{ color: "white" }}
-                target="_blank"
+
                 rel="noopener noreferrer"
               >
                 <FaLinkedinIn />
@@ -53,7 +53,7 @@ function Footer() {
               <a
                 href="https://www.instagram.com/harsh_chopda"
                 style={{ color: "white" }}
-                target="_blank"
+
                 rel="noopener noreferrer"
               >
                 <AiFillInstagram />

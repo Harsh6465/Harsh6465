@@ -71,7 +71,7 @@ function Home() {
               <li className="social-icons">
                 <a
                   href="https://github.com/Harsh6465"
-                  target="_blank"
+
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
@@ -81,7 +81,7 @@ function Home() {
               <li className="social-icons">
                 <a
                   href="https://twitter.com/HarshChopda"
-                  target="_blank"
+
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
@@ -91,7 +91,7 @@ function Home() {
               <li className="social-icons">
                 <a
                   href="https://www.linkedin.com/in/harsh-chopda/"
-                  target="_blank"
+
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
@@ -101,7 +101,7 @@ function Home() {
               <li className="social-icons">
                 <a
                   href="https://www.instagram.com/harsh_chopda"
-                  target="_blank"
+
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
                 >
